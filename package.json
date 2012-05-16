@@ -1,5 +1,5 @@
 {
-	"name": "fastpass",
+	"name": "node-fastpass",
 	"description": "Extends the oauth library for use with Get Satisfaction",
 	"version": "0.0.1",
 	"main": "index.js",
