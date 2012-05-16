@@ -1,0 +1,11 @@
+{
+	"name": "fastpass",
+	"description": "Extends the oauth library for use with Get Satisfaction",
+	"version": "0.0.1",
+	"main": "index.js",
+	"private": true,
+	
+	"dependencies": {
+		"oauth": "0.9.7"
+	} 
+}
